@@ -195,15 +195,3 @@ Irish_Tax_Simpler/
 3. **Qdrant Connection Issues**
    - Verify QDRANT_URL and QDRANT_API_KEY
    - Ensure the collection exists and contains data
-
-## 📝 License
-
-[Add your license information here]
-
-## 🤝 Contributing
-
-[Add contribution guidelines here]
-
-## 📞 Support
-
-[Add support information here]
