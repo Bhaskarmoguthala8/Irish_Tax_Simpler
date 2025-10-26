@@ -1,0 +1,47 @@
+# Ignore local development files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Ignore documentation files
+SUGGESTIONS_SPELL_CHECKING.md
+IMPLEMENTATION_NOTES.md
+README_HF.md
+
+# Ignore local development scripts
+run_ui.py
+run_with_ui.py
+main.py
+
+# Ignore environment files (use HF secrets instead)
+.env
+.env.local
+
+# Ignore IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Ignore test files
+test/
+tests/
+*.test.py
+*.spec.py
+
+# Ignore log files
+*.log
+logs/
+
+# Ignore data files
+data/
+*.db
+*.sqlite3
+
